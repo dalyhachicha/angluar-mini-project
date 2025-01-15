@@ -1,0 +1,17 @@
+
+# Build outputs
+auth-service/target/
+**/target/
+*.jar
+
+# Angular cache
+invoice-management-ui/.angular/cache/
+**/dist/
+**/node_modules/
+*.pack
+.angular/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
